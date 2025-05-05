@@ -1,0 +1,83 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:#F0FFFF  ;
+    color: #333;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 32px auto;
+    padding: 0 16px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 8px;
+    color: black 
+}
+
+h3{
+    color: darkslategrey;
+    font-size: 16px;
+}
+
+.byline {
+    margin-bottom: 32px;
+    color: #4682B4;
+}
+
+.image-container {
+    position: relative;
+    margin: 32px 0;
+    text-align: right;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 6px;
+}
+
+.caption {
+    font-size: 14px;
+    color: #4682B4;
+    margin-top: 4px;
+    text-align: right;
+}
+
+.chart.chart-one {
+    margin: 32px 0;
+    padding: 20px 0; 
+}
+
+.chart.chart-one iframe {
+    width: 100%;
+    height: 700px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 0px; 
+
+}
+
+.chart.chart-two {
+    margin: 32px 0;
+    padding: 20px 0; 
+}
+
+.chart.chart-two iframe {
+    width: 100%;
+    height: 780px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 0; 
+
+
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
